@@ -1,0 +1,5 @@
+"project_id","project_name","total_task","task_in_progress","task_done","trx_date","milestone_id","milestone_name"
+"1","projectVA",5,2,2,"2017-05-21","1","dialog testing component (sprint 1)"
+"2","JarvisMacButler",2,0,1,"2017-05-21","2","checking for background daemon to run the voice recognition (dev 2)"
+"3","voisage",1,1,0,"2017-05-21","3","study on how to implement the voice communication on Web (study web sprint 1)"
+"4","nomads",5,0,0,"2017-05-21","4","study on biz model (study sprint 1, pending to 2)"
