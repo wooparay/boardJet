@@ -58,5 +58,5 @@ typings/
 .env
 
 # data folder
-dataS/*
+data/*
 
